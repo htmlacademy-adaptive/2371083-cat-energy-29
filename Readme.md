@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
-* Студент: [Таня Морозова](https://up.htmlacademy.ru/adaptive/29/user/2371083).
-* Наставник: `Неизвестно`.
+- Студент: [Таня Морозова](https://up.htmlacademy.ru/adaptive/29/user/2371083).
+- Наставник: [Наталья Зотова](https://htmlacademy.ru/profile/id1079951).
 
 ---
 
